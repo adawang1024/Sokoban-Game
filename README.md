@@ -1,5 +1,5 @@
 # Sokoban-Game 
-Developed the rules of the Sokoban game with Python in lab.py and wrote an additional program that solves the Sokoban puzzles in the shortest sequence of moves
+Developed the rules of the Sokoban game with Python and wrote an additional program that solves the Sokoban puzzles in the shortest sequence of moves;  Completed for lab assignment
 
 ## Gameplay
 The player controls a snake and the goal is to push computers around an environment with walls and barriers until every target (yellow flag) is covered with a computer.
