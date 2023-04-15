@@ -1,6 +1,3 @@
-"""
-6.1010 Spring '23 Lab 4: Snekoban Game
-"""
 
 # import json
 # import typing
