@@ -17,5 +17,4 @@ Game interface
 <img width="672" alt="Screen Shot 2023-04-15 at 10 15 59" src="https://user-images.githubusercontent.com/105997889/232230336-38d78981-1444-443d-8269-4c10d1f9603f.png">
 
 Gameplay screenshot in victory condition:
-
-<img width="1440" alt="Screen Shot 2023-04-15 at 10 20 07" src="https://user-images.githubusercontent.com/105997889/232230444-32964b7e-2799-4183-8204-706fc193d213.png">
+<img width="1092" alt="Screen Shot 2023-04-15 at 10 27 31" src="https://user-images.githubusercontent.com/105997889/232230555-709fac55-fd49-49d2-9140-b61513292bf7.png">
