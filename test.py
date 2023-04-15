@@ -1,6 +1,4 @@
-"""
-6.1010 Spring '23 Lab 4: Snekoban Game Test Cases
-"""
+
 
 #!/usr/bin/env python3
 import os
